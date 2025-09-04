@@ -1,6 +1,7 @@
 # This is a complete Java programming repository
 
-<h3>It includes various Data Structure and Algorithm codes in java, such as:<h3>
+<h3>It includes various Data Structure and Algorithm codes in java, such as:</h3>
+
 <ol>
     <li>Java Syntax Basics</li>
     <li>Patterns</li>
