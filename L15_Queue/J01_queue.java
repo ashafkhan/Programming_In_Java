@@ -1,6 +1,6 @@
 package L15_Queue;
 
-public class J01_queue {
+class QueueDemo {
     private int[] arr;   // Array to store queue elements
     private int front;   // Front points to the first element
     private int rear;    // Rear points to the last element
@@ -8,7 +8,7 @@ public class J01_queue {
     private int count;   // Current size of the queue
 
     // Constructor
-    public J01_queue(int size) {
+    public QueueDemo(int size) {
         arr = new int[size];
         capacity = size;
         front = 0;
@@ -79,7 +79,7 @@ public class J01_queue {
 }
 
 // Test the Queue
-public class QueueDemo {
+public class J01_queue {
     public static void main(String[] args) {
         MyQueue q = new MyQueue(5);
 
