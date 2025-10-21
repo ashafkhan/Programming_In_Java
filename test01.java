@@ -48,5 +48,7 @@ public class test01{
         } else {
             System.out.println("No flight departing at " + target);
         }
+
+        sc.close();
     }
 }
